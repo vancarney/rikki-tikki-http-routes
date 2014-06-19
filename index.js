@@ -1,1 +1,1 @@
-module.exports = require('./lib/ExpressAdapter');
+module.exports = require('./lib/RoutesAdapter');
