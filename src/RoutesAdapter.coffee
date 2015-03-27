@@ -1,6 +1,6 @@
 url     = require 'url'
 path    = require 'path'
-{_}     = require 'underscore'
+{_}     = require 'lodash'
 Adapter = require 'rikki-tikki-route-adapter'
 class RoutesAdapter extends Adapter
   required:['router']
